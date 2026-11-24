@@ -19,4 +19,4 @@ https://devmuhammadadam.github.io/Stats-preview-card-component/
 ### Author
 
 - Frontend Mentor - [@Muhammad-adam778](https://www.frontendmentor.io/profile/Muhammad-adam778)
-- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin - [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
