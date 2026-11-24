@@ -8,7 +8,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Demo
 
-https://muhammad-abdusalam.github.io/Stats-preview-card-component/
+https://devmuhammadadam.github.io/Stats-preview-card-component/
 
 ### Built with ⚒️
 
